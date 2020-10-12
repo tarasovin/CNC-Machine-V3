@@ -75,6 +75,8 @@ I'm using a Makita M3700 router but you can use any router that has an approx. d
 <a href="https://youtu.be/PrJPGO_sYMM" target="_blank"><img src="https://img.youtube.com/vi/PrJPGO_sYMM/0.jpg" 
 alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 
+<a href="https://www.youtube.com/watch?v=P_f4qdVd59s" target="_blank"></a>
+
 ### Software that I mostly use to generate and send GCode:
 
 * bCNC (https://github.com/vlachoudis/bCNC)
