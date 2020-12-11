@@ -71,11 +71,13 @@ To power the NEMA 17 stepper motors I've converted an old ATX PC power supply an
 I'm using a Makita M3700 router but you can use any router that has an approx. diameter of 65mm (2.5"). Or you might have to design another router mount or create an adapter.
 
 ### YouTube video
-
-<a href="https://youtu.be/PrJPGO_sYMM" target="_blank"><img src="https://img.youtube.com/vi/PrJPGO_sYMM/0.jpg" 
+<a href="https://www.youtube.com/watch?v=24RslguGy58" target="_blank"><img src="https://i.ytimg.com/vi/24RslguGy58/hqdefault.jpg" 
 alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 
-<a href="https://www.youtube.com/watch?v=P_f4qdVd59s" target="_blank"><img src="https://i.ytimg.com/sb/P_f4qdVd59s/storyboard3_L2/M0.jpg?sqp=-oaymwENSDfyq4qpAwVwAcABAaLzl_8DBgicyOHsBQ==&sigh=rs%24AOn4CLCr_ALMaxYxHrvHJGnEXbmGAOqmFQ" 
+<a href="https://youtu.be/PrJPGO_sYMM" target="_blank"><img src="https://i.ytimg.com/vi/PrJPGO_sYMM/hqdefault.jpg" 
+alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
+
+<a href="https://www.youtube.com/watch?v=P_f4qdVd59s" target="_blank"><img src="https://i.ytimg.com/vi/P_f4qdVd59s/hqdefault.jpg" 
 alt="Click to view: 3D Printed CNC Machine V3" width="500" border="1" /></a>
 
 ### Software that I mostly use to generate and send GCode:
